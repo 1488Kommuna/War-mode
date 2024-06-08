@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Российская Федерация",
+		"leaderName": "В.В. Путин",
+		"adjective": ["Россиянин"],
+		"startBias": ["Plain"],
+		"preferredVictoryType": "military",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Здравствуйте, товарищи!",
+		"startIntroPart2": "Приветствую вас",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"declaringWar":"Вы, вынудили нас это сделать." 
+      
+		"attacked": "Вы очень ошиблись напав на нас!",
+		"defeated": "я не знаю как это произошло, к сожалению Российская Федерация уничтожена...",
+		"introduction": "Российская Федерация",
+		
+		"neutralHello": "Как ваши дела?",
+		"neutralLetsHearIt": ["Давайте продолжим","Что ты сказал?"],
+		"neutralNo": ["Абсолютно нет!","Нет!","Я откажусь"],
+		"neutralYes": ["Хорошо","Я согласен","Да"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Что вам надо?",
+		"hateLetsHearIt": ["Говори!","Что ты сказал?","Давайте продолжим"],
+		"hateNo": ["Никогда!","Это недопустимо!","Мы категорически не согласны."],
+		"hateYes": ["Хорошо","Мы принимаем это","Очень хорошо..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Это великая победа для нас!",
+		"tradeRequestr": "Сейчас нам требуются ваши ресурсы!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Москва","Санкт-Петербург","Волгоград","Псков","Мурманск","Архангельск","Казань","Новосибирск","Сочи",
+			"Ростов-на-Дону","Астрахань","Уфа","Оренбург","Кызыл","Якутск","Хабаровск","Владивосток","Магадан","Петропавловск-камчатский",
+			"Махачкала","Новгород","Курск","Белгород","Сочи","Челябинск","Екатеринбург","Краснодар","Красноярск","Ярославль",
+			"Самара","Саратов","Коломна","Тула","Рыбинск","Владикавказ"]
 	}
 ]
